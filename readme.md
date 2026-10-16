@@ -1,35 +1,28 @@
-🕒 Relógio Digital
-Este é um projeto de relógio digital desenvolvido com HTML, CSS e JavaScript. Ele exibe a hora atual em tempo real, atualizando automaticamente a cada segundo. O objetivo principal deste projeto é praticar e consolidar conhecimentos em desenvolvimento web.
+# Relógio Digital
 
+Projeto simples de relógio digital construído para praticar fundamentos de desenvolvimento front-end. A interface exibe a hora atual e atualiza automaticamente no navegador.
 
-📁 Estrutura do Projeto
-pgsql
-Copiar
-Editar
-/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+## Tecnologias
 
-index.html: Contém a estrutura básica do relógio.
-style.css: Responsável pela estilização e layout do relógio.
-script.js: Implementa a lógica para atualizar a hora em tempo real.
+- HTML5 para a estrutura da página
+- CSS3 para layout e responsividade
+- JavaScript para obter e atualizar a hora usando o DOM
 
-🚀 Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript
+## Como executar
 
+1. Clone ou baixe este repositório.
+2. Abra `index.html` em um navegador moderno.
 
-🎯 Objetivos do Projeto
-- Praticar a manipulação do DOM com JavaScript.
-- Aplicar estilos responsivos com CSS.
-- Compreender o funcionamento de funções de tempo em JavaScript.
+Não é necessário instalar dependências ou iniciar um servidor.
 
+## Arquivos
 
-📸 Demonstração
-https://www.youtube.com/watch?v=ttk3dr5LbVA
+- `index.html`: marcação da página
+- `style.css`: estilos e apresentação
+- `script.js`: lógica do relógio
 
-📬 Contato
-Para sugestões ou feedbacks, sinta-se à vontade para entrar em contato:
+## Demonstração
+
+[Vídeo do projeto](https://www.youtube.com/watch?v=ttk3dr5LbVA)
+
+Projeto de estudo pessoal.
